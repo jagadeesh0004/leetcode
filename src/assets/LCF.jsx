@@ -93,7 +93,7 @@ const LCF = () => {
           }}
         />
         <button
-          className="bg-purple-600 hover:bg-purple-700 text-white px-5 py-2 rounded-lg shadow transition sm:w-auto w-full"
+          className="bg-purple-600 hover:bg-purple-700 text-white px-5 py-2 rounded-lg mt-7 shadow transition sm:w-auto w-full"
           onClick={fetchData}
         >
           Fetch
